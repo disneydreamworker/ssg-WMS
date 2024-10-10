@@ -13,6 +13,16 @@
 
 2차 프로젝트는 WMS 웹 애플리케이션을 구현하는 것을 목표로 지역 내 창고 간 거래에 집중한 시스템을 개발했습니다.
 
+
+## 🛠 기술 스택
+
+- **프론트엔드**: React
+- **백엔드**: Spring Boot, MyBatis
+- **데이터베이스**: MySQL, Google Cloud Storage
+- **협업툴**: Slack, Notion
+- **현상관리**: Git, Github
+
+
 ## 🚀 기능
 
 - 👨‍👧 ** 회원 가입 및 로그인 **
@@ -25,13 +35,9 @@
 - 🌟 ** 운송장관리 **
 - 🔎 ** 페이징 및 검색 기능 **
 - 👨‍👧 ** 입출고 및 재고 대시보드 **
+- 🚀 ** 개인 메시지 알림 기능 **
 
-
-## 🛠 기술 스택
-
-- **프론트엔드**: React
-- **백엔드**: Spring Boot, MyBatis
-- **데이터베이스**: MySQL, Google Cloud Storage
+### 기능 상세
 
 ## 🔧 폴더 구조
 
@@ -74,9 +80,16 @@
 
 ```
 
-## ✨ 리팩토링 과정
+
+
+
+## ✨ 더 자세히 알고 싶다면?
 
 👇 블로그 보러 가기! 👇
 
 [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge)](https://your-tistory-blog-url.com/게시글-url)
+
+👇 노션 보러 가기! 👇
+
+
 
