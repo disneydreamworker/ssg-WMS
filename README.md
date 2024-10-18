@@ -8,8 +8,13 @@
 
 
 ## 📌 프로젝트 소개
-
-<img src="https://github.com/user-attachments/assets/a9726406-91b9-41a6-8843-48e27123a427" width="50" height="50"/> 안녕하세요, 저희는 팀 LCW(Logistics Coding Warriors)입니다.
+<p align="center">
+<a href="https://github.com/wanna175/WMS/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=wanna175/WMS" />
+</a>
+</p>
+<br>
+안녕하세요, 저희는 팀 LCW(Logistics Coding Warriors)입니다.
 
 신세계 I&C 스파로스 아카데미에서 자바 웹 백엔드에 대해 함께 공부하며 발전해나가고자 합니다.
 
@@ -17,6 +22,9 @@
 
 특히, 1차 프로젝트 이후 아쉬웠던 부분에 집중하여 실제 물류센터에서 요구하는 창고관리시스템의 특징을 살리고자 노력했습니다.
 
+총 6명의 팀원이 함께 참여했으며, 저는 회원 가입과 로그인, 사용자 정보 관리 기능을 맡았습니다.
+
+[![Contributors](https://img.shields.io/github/Team-Github/wanna175/WMS?style=for-the-badge)](https://github.com/wanna175/WMS/graphs/contributors)
 <br>
 <br>
 
